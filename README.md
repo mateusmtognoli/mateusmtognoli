@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mateusmtognoli&show_icons=true&bg_color=0d1117&icon_color=39FF14&title_color=00FF41&text_color=23F71D&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mateusmtognoli&layout=compact&langs_count=7&bg_color=0d1117&title_color=00FF41&text_color=23F71D&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=mateusmtognoli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mateusmtognoli&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
