@@ -6,16 +6,16 @@
 
 </div>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- Desenvolvedor com foco em **Back-end**, apaixonado por construir sistemas robustos, APIs bem estruturadas e soluções que escalam.
+- Developer focused on **Back-end**, passionate about building robust systems, well-structured APIs and scalable solutions.
   
-- Atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
+- Currently in my 3rd semester of Systems Analysis and Development.
   
-- Aprendendo e desenvolvendo projetos com Java, TypeScript e bancos de dados relacionais.
+- Learning and building projects with Java, TypeScript and relational databases.
 
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Skills
 
 <div>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -39,19 +39,19 @@
 </div>
 
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- Exemplo/link -->
-EM BREVE!!!
+<!-- Example/link -->
+COMING SOON!!!
 
 </div>
 
-<!-- > 💊 **ReMed** — App de controle de medicamentos com React + TypeScript, sistema de papéis (dependente/responsável), histórico de doses e gestão de estoque. -->
+<!-- > 💊 **ReMed** — Medication management app built with React + TypeScript, role system (dependent/caregiver), dose history and stock management. -->
 
 
-## 📬 Contato
+## 📬 Contact
 
 <div>
 
