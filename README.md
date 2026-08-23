@@ -10,7 +10,7 @@
 
 - Developer focused on **Back-end**, passionate about building robust systems, well-structured APIs and scalable solutions.
   
-- Currently in my 3rd semester of Systems Analysis and Development.
+- Currently in my 4th semester of Systems Analysis and Development.
   
 - Learning and building projects with Java, TypeScript and relational databases.
 
